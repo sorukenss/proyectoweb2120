@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B0QzzJA4UFntWWAWFs0yqioBJWGPDZouxoPIQHn5wPtpAyke1f3nOSsZJRwr8Gi6BDOtQ6CSvWszYRXMcqwCQQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\sorukens\\Documents\\GitHub\\ProyectoWeb21\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sorukens\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
